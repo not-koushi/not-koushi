@@ -1,8 +1,8 @@
 # 👤 About Me
-🔭 I’m currently working on [Zero Trust Gate](https://www.github.com/not-koushi/zero-trust-gate/)
-🌱 I’m currently learning GoLang and Redis
-⚡ I'm always excited to talk about -and work on- TypeScript projects
-📫 I can be reached via koushikpanchadarla@gmail.com
+- 🔭 I’m currently working on [Zero Trust Gate](https://www.github.com/not-koushi/zero-trust-gate/)
+- 🌱 I’m currently learning GoLang and Redis
+- ⚡ I'm always excited to talk about -and work on- TypeScript projects
+- 📫 I can be reached via koushikpanchadarla@gmail.com
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koushikpanchadarla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koushik-panchadarla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sskpanchadarla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koushikpanchadarla@gmail.com) 

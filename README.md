@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity graduate with a strong foundation in secure software development and backend systems 🔐💻<br>☁️<br>Actively exploring roles in Cybersecurity and Software Engineering, with interests in Zero Trust, API security, and system design 🚀
+Cybersecurity graduate with a strong foundation in secure software development and backend systems 🔐💻<br>Actively exploring roles in Cybersecurity and Software Engineering, with interests in Zero Trust, API security, and system design 🚀
 
 
 ## 🌐 Socials:

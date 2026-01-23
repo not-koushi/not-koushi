@@ -1,5 +1,5 @@
 # 👤 About Me
-- 🔭 I’m currently working on [Zero Trust Gate](https://www.github.com/not-koushi/zero-trust-gate/)
+- 🔭 I’m currently working on a simple [game built with Assembly](https://www.github.com/not-koushi/opcode-arena/)
 - 🌱 I’m currently learning [GoLang](https://go.dev/) and [Redis](https://redis.io/)
 - ⚡ I'm always excited to talk about -and work on- [TypeScript](https://www.typescriptlang.org/) projects
 - 📫 I can be reached via koushikpanchadarla@gmail.com
